@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="image1">You are the best!</string>
+    <string name="image2">Reached the goal!</string>
+    <string name="image3">You can do it!</string>
+    <string name="image4">Forward movement!</string>
+    <string name="image5">Only a victory!</string>
+    <string name="image6">Good luck with you!</string>
+    <string name="image7">Only up!</string>
+    <string name="image8">Be above the problems!</string>
+    <string name="image9">You are firm in your decisions!</string>
+    <string name="image10">Always act!</string>
+</resources>
